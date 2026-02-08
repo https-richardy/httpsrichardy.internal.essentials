@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- nuget package properties -->
+    <PackageId>HttpsRichardy.Internal.Essentials</PackageId>
+    <Authors>Richard Garcia</Authors>
+    <Company>Richard Garcia</Company>
+    <Product>HttpsRichardy.Internal.Essentials</Product>
+    <Description>shared core package for https-richardy projects, containing essential abstractions, patterns, and utilities.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>
