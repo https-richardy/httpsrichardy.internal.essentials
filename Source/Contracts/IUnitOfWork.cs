@@ -15,3 +15,5 @@ public interface IUnitOfWork
         Func<CancellationToken, Task<TResult>> action
     );
 }
+
+#pragma warning restore CA1068
